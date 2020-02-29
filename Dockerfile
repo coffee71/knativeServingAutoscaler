@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler@sha256:9b716bec384c166782f30756e0981ab11178e1a6b7a4fa6965cc6225abf8567c
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler@sha256:3193057da258bbb9a6b8caddcf1924b9b6752877b0fa0940d3393d2492db0b04
 MAINTAINER cx
